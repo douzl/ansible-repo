@@ -1,0 +1,90 @@
+127.0.0.1 localhost
+########################################### ali cloud ############################################
+# im instances
+10.162.193.169 ebs-ali-beijing-1 ebs-ali-beijing-1-pri
+10.162.193.168 ebs-ali-beijing-2 ebs-ali-beijing-2-pri
+10.162.193.167 ebs-ali-beijing-3 ebs-ali-beijing-3-pri
+10.165.70.51   ebs-ali-beijing-4 ebs-ali-beijing-4-pri
+182.92.1.164 ebs-ali-beijing-1.easemob.com
+182.92.1.104 ebs-ali-beijing-2.easemob.com
+182.92.1.148 ebs-ali-beijing-3.easemob.com
+182.92.64.127   ebs-ali-beijing-4.easemob.com
+
+#app instances
+10.162.211.175  ebs-ali-beijing-app1
+10.162.220.214  ebs-ali-beijing-app2
+10.171.58.9     ebs-ali-beijing-app3
+10.172.219.67   ebs-ali-beijing-app4
+10.172.221.50   ebs-ali-beijing-app5
+10.171.45.207   ebs-ali-beijing-app6
+10.171.42.161   ebs-ali-beijing-app7
+10.171.9.11     ebs-ali-beijing-app8
+10.171.83.97    ebs-ali-beijing-app9
+10.171.86.228   ebs-ali-beijing-app10
+182.92.71.36    ebs-ali-beijing-app1.easemob.com
+182.92.71.75    ebs-ali-beijing-app2.easemob.com
+182.92.185.254  ebs-ali-beijing-app3.easemob.com
+182.92.192.89   ebs-ali-beijing-app4.easemob.com
+123.57.2.129    ebs-ali-beijing-app5.easemob.com
+182.92.174.173  ebs-ali-beijing-app6.easemob.com
+182.92.174.189  ebs-ali-beijing-app7.easemob.com
+182.92.221.20   ebs-ali-beijing-app8.easemob.com
+182.92.221.197  ebs-ali-beijing-app9.easemob.com
+182.92.221.22   ebs-ali-beijing-app10.easemob.com
+
+#thrift
+10.165.66.242   ebs-ali-beijing-thrift1
+10.173.0.156    ebs-ali-beijing-thrift2
+182.92.10.149   ebs-ali-beijing-thrift1.easemob.com
+123.57.32.146   ebs-ali-beijing-thrift2.easemob.com
+
+
+# cassandra instances
+10.171.20.145  ebs-ali-beijing-db1
+10.171.125.229 ebs-ali-beijing-db2
+10.171.123.166 ebs-ali-beijing-db3
+10.172.223.212 ebs-ali-beijing-db4
+10.171.47.226 ebs-ali-beijing-db5
+10.173.2.115  ebs-ali-beijing-db6
+10.171.88.120 ebs-ali-beijing-db7
+182.92.156.99  ebs-ali-beijing-db1.easemob.com
+182.92.104.100 ebs-ali-beijing-db2.easemob.com
+182.92.103.61  ebs-ali-beijing-db3.easemob.com
+123.57.0.93 ebs-ali-beijing-db4.easemob.com
+182.92.175.133 ebs-ali-beijing-db5.easemob.com
+123.57.32.21 ebs-ali-beijing-db6.easemob.com
+
+# zookeeper instances
+10.162.193.132 ebs-ali-beijing-zk1
+10.171.125.84  ebs-ali-beijing-zk2
+10.162.206.251 ebs-ali-beijing-zk3
+10.171.81.226 ebs-ali-beijing-zk4
+10.172.246.194 ebs-ali-beijing-zk5
+
+# web instances
+10.171.28.48  ebs-ali-beijing-web1
+10.162.215.54  ebs-ali-beijing-web2
+10.171.88.20  ebs-ali-beijing-web3
+182.92.159.193  ebs-ali-beijing-web1.easemob.com
+182.92.72.102  ebs-ali-beijing-web2.easemob.com
+182.92.228.160  ebs-ali-beijing-web3.easemob.com
+
+# log
+10.172.239.90 ebs-ali-beijing-log
+
+#console
+10.171.84.238  ebs-ali-beijing-console
+
+#support
+10.173.1.7 ebs-ali-beijing-support
+
+#kafka
+10.173.14.189  ebs-ali-beijing-kafka1
+10.171.102.181 ebs-ali-beijing-kafka2
+
+#storm
+10.171.98.239  ebs-ali-beijing-storm1
+10.173.19.193  ebs-ali-beijing-storm2
+
+# QQ SMTP
+163.177.65.157 smtp.exmail.qq.com

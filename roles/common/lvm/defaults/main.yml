@@ -1,0 +1,9 @@
+---
+lvm_pkgs:
+- lvm2
+
+lvm_create:
+- vg: "data"
+  pv: "/dev/xvdb"
+  lv: "apps"
+  mount_point: "/data"
